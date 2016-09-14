@@ -1,5 +1,14 @@
 {
   "name": "practice",
-  "version": "0.0.1"
-
+  "version": "0.0.1",
+  "description": "Practise area for implment algorithms",
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bwarner/algorithms.git"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
 }
